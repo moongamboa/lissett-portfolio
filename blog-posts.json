@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Exploring Machine Learning in Python",
+    "summary": "A quick overview of ML algorithms and how to implement them using scikit-learn.",
+    "link": "#"
+  },
+  {
+    "title": "Data Visualization Best Practices",
+    "summary": "Tips and tools to create impactful data visualizations with Python and Power BI.",
+    "link": "#"
+  },
+  {
+    "title": "Introduction to Intelligent Agents",
+    "summary": "Understanding the basics of AI agents and their applications in the real world.",
+    "link": "#"
+  }
+]
