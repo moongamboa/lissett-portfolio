@@ -1,5 +1,11 @@
 [
   {
+    "title": "Alibaba unveils new Qwen model to supercharge AI transcription tools",
+    "date": "2025-02-10",
+    "summary": "Alibaba introduces its latest Qwen model, aiming to revolutionize transcription capabilities with more accurate, faster AI tools.",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-new-qwen-model-supercharge-ai-transcription-tools/"
+  },
+  {
     "title": "Exploring Machine Learning in Python",
     "summary": "A quick overview of ML algorithms and how to implement them using scikit-learn.",
     "link": "#"
@@ -15,3 +21,4 @@
     "link": "#"
   }
 ]
+
